@@ -8,6 +8,7 @@ export default function Home() {
       <TopicBox food='Kottu' price='950/='>
         <span>This is the description</span>
         </TopicBox>
+        
       <TopicBox food='Rice' price='1000/='>
       <button type='submit'>Save</button>
       </TopicBox>
